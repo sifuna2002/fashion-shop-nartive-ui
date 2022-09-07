@@ -1,5 +1,5 @@
 # Home Page
-![alt text](home.jpeg)
+<img src="home.jpeg" width="30%" height="30%">
 
 <p>
   <!-- iOS -->
